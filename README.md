@@ -106,7 +106,7 @@ This project demonstrates comprehensive data cleaning techniques on the Online R
 - `README.md` - Project documentation
 
 ## How to Run
-1. Open the notebook in Google Colab: [Add your Colab link here]
+1. Open the notebook in Google Colab: https://colab.research.google.com/drive/1lhXdSsNQ08pbFQ9OvNQx0XT_MPLqlw7D?usp=sharing
 2. Upload the original dataset or use the Kaggle API
 3. Run all cells in order
 4. Review cleaning steps and visualizations
@@ -118,7 +118,7 @@ This project demonstrates comprehensive data cleaning techniques on the Online R
 - Add logging for reproducibility
 
 ## Author
-[Your Name]  
+Sara Hudson
 Bachelor's in Data Science  
 [Link to your GitHub profile]
 
